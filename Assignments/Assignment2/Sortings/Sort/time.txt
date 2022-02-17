@@ -1,0 +1,1 @@
+Time taken of size: 1000 by Selection Sort : 2991 microseconds

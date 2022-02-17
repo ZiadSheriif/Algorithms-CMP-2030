@@ -1,0 +1,18 @@
+﻿  Source.cpp
+E:\CMP\3rd Semester\Algorithms\Assignments\Assignment2\Sortings\Sort\Source.cpp(15,23): warning C4018: '<': signed/unsigned mismatch
+E:\CMP\3rd Semester\Algorithms\Assignments\Assignment2\Sortings\Sort\Source.cpp(17,31): warning C4018: '<': signed/unsigned mismatch
+E:\CMP\3rd Semester\Algorithms\Assignments\Assignment2\Sortings\Sort\Source.cpp(21,26): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+E:\CMP\3rd Semester\Algorithms\Assignments\Assignment2\Sortings\Sort\Source.cpp(30,23): warning C4018: '<': signed/unsigned mismatch
+E:\CMP\3rd Semester\Algorithms\Assignments\Assignment2\Sortings\Sort\Source.cpp(91,15): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+E:\CMP\3rd Semester\Algorithms\Assignments\Assignment2\Sortings\Sort\Source.cpp(106,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\CMP\3rd Semester\Algorithms\Assignments\Assignment2\Sortings\Sort\Source.cpp(124,23): warning C4018: '<': signed/unsigned mismatch
+E:\CMP\3rd Semester\Algorithms\Assignments\Assignment2\Sortings\Sort\Source.cpp(172,23): warning C4018: '<': signed/unsigned mismatch
+  Sort.vcxproj -> E:\CMP\3rd Semester\Algorithms\Assignments\Assignment2\Sortings\Debug\Sort.exe

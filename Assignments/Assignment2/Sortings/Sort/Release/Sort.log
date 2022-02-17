@@ -1,0 +1,18 @@
+﻿  sort.cpp
+E:\CMP\3rd Semester\Algorithms\Assignments\Assignment2\Sortings\Sort\sort.cpp(14,20): warning C4018: '<': signed/unsigned mismatch
+E:\CMP\3rd Semester\Algorithms\Assignments\Assignment2\Sortings\Sort\sort.cpp(16,25): warning C4018: '<': signed/unsigned mismatch
+E:\CMP\3rd Semester\Algorithms\Assignments\Assignment2\Sortings\Sort\sort.cpp(29,20): warning C4018: '<': signed/unsigned mismatch
+E:\CMP\3rd Semester\Algorithms\Assignments\Assignment2\Sortings\Sort\sort.cpp(90,12): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+E:\CMP\3rd Semester\Algorithms\Assignments\Assignment2\Sortings\Sort\sort.cpp(105,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\CMP\3rd Semester\Algorithms\Assignments\Assignment2\Sortings\Sort\sort.cpp(138,20): warning C4018: '<': signed/unsigned mismatch
+E:\CMP\3rd Semester\Algorithms\Assignments\Assignment2\Sortings\Sort\sort.cpp(191,20): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  8 of 218 functions ( 3.7%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    19 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Sort.vcxproj -> E:\CMP\3rd Semester\Algorithms\Assignments\Assignment2\Sortings\Release\Sort.exe
