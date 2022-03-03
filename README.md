@@ -1,1 +1,1 @@
-## Implementations to all Labs and Assignments for algorithms course in the university
+## Implementations To All Labs And Assignments For Algorithms Course In The University
